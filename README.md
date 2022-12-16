@@ -1,4 +1,4 @@
-#Exploring the Benefits of Transfer Learning While Building Brain Tumour Classifiers
+# Exploring the Benefits of Transfer Learning While Building Brain Tumour Classifiers
 A comparative analysis of DL techniques
 
 AI is huge. There are a lot of different models, parameters, and even subparameters to choose from. For image classification tasks, CNN-based models from scratch, and with transfer learning are currently the two most popular selections.
